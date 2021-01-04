@@ -2,8 +2,13 @@
 title: "About me"
 template: "page"
 ---
-Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta molestie, quam mauris dapibus lacus, vitae vestibulum nunc sem id libero. Mauris non leo sed purus luctus interdum. Sed maximus finibus magna, tempus egestas risus rutrum eu. Fusce sed ante nunc. Aliquam erat volutpat. Suspendisse sollicitudin ac urna id convallis. Maecenas ac augue nibh.
+My name is Alec Akin and I am a full-time nerd. I'm currently a senior cybersecurity engineer in the telecom industry as well as the CTO for the Police Data Accessiblity Project (https://policedap.org) and I love to spend my free time learning about new technologies and growing my skillset as well as teaching others the same.
 
-Pellentesque sit amet lorem felis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas eu massa faucibus, posuere diam eget, dignissim erat. Suspendisse sit amet ultrices lectus. Maecenas nec nisl aliquet, rhoncus ligula sed, varius nibh. Vivamus pharetra lacus quis risus finibus, vitae viverra lectus tincidunt. Duis leo quam, bibendum vitae arcu nec, mollis imperdiet urna. Pellentesque at orci placerat augue congue blandit. Duis eget quam dictum, aliquam augue eu, placerat dolor. Vestibulum cursus odio tortor, ac ultricies ex laoreet a. Nulla facilisi.
+I intend to use this page to record my thoughts, helpful links and tips, make sure I don't forget anything useful, as well as expand my knowledge of the technologies that make this site possible. Please feel free to reach out via any of the methods on the homepage!
 
-Vivamus pellentesque sollicitudin nisi sed fringilla. Etiam ut mi vitae purus sollicitudin dictum et at ipsum. Curabitur tincidunt vehicula mi, vitae vestibulum purus lacinia non. Ut placerat, urna lacinia egestas elementum, orci velit placerat elit, in consectetur augue eros sed dui. Mauris at sem odio. Duis pulvinar neque ac felis fringilla tristique.
+
+
+
+
+
+Side note - thank you to Abhay Nikham (https://www.abhaynikam.me/pages/about/) for the great template which can be found here: https://github.com/abhaynikam/gatsby-nice-blog
