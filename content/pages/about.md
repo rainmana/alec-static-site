@@ -6,6 +6,8 @@ My name is Alec Akin and I am a full-time nerd. I'm currently a senior cybersecu
 
 I intend to use this page to record my thoughts, helpful links and tips, make sure I don't forget anything useful, as well as expand my knowledge of the technologies that make this site possible. Please feel free to reach out via any of the methods on the homepage!
 
+Hi Stephen! Just showing you how Git works!
+
 
 
 
